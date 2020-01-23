@@ -1,0 +1,19 @@
+body{ background-color: grey;
+  }
+h1{
+	font-size: 38px;
+	color: black;
+}
+h2{
+	font-size: 30px;
+	color: navy;
+}
+.big{
+	color: maroon 
+}
+.uppercase{
+	font-size: 45px;
+}
+span{
+	color:red;
+}
